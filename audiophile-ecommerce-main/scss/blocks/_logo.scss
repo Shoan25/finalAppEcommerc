@@ -1,0 +1,11 @@
+.logo {
+  flex-shrink: 0;
+  display: block;
+  text-decoration: none;
+}
+
+.logo__img {
+  width: 143px;
+  height: 25px;
+  object-fit: contain;
+}
